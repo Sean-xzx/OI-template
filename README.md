@@ -1,2 +1,2 @@
 # OI-template
-OI竞赛模板
+C++竞赛模板
